@@ -4,7 +4,7 @@ PyPerfTesting
 
 This repository contains some python scripts to tests some algorithms, librairies, ideas ...
 
-Just have a look at `scripts/` directory
+Just have a look at ``scripts/`` directory
 
 List of scripts :
 
