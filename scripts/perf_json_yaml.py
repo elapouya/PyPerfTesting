@@ -1,3 +1,12 @@
+########################################################################################
+#
+# Small script to test json performance against yaml
+# Requirement :
+#     pip install yaml
+#
+# 2015-01-02 E.Lapouyade : Creation
+#
+########################################################################################
 import json
 import yaml
 from datetime import datetime
