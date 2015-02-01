@@ -12,4 +12,5 @@ List of scripts :
 Script name                 Description
 =========================== ========================================================================
 perf_json_yaml.py           Speed comparaison between json and yaml
+perf_json_xml.py            Speed comparaison between json and xml
 =========================== ========================================================================
